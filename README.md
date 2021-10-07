@@ -1,3 +1,3 @@
-🦁 Likelion 9th 
-🏫 PNU
-📚 Django, Python
+🦁 Likelion 9th <br>
+🏫 PNU <br>
+📚 Django, Python <br>
