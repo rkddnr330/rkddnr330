@@ -1,1 +1,3 @@
-hello world 
+🦁 Likelion 9th 
+🏫 PNU
+📚 Django, Python
