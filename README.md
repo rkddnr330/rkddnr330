@@ -6,4 +6,4 @@
 
 <- 2022 -> <br>
 🍏 Apple Developer Academy <br>
-📚 Swift
+📚 Swift, SwiftUI, UIKit
