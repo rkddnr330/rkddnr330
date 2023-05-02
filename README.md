@@ -14,7 +14,7 @@ who think, stay awake, act, exercise, and develop 🔥
 
 - **부산대학교 (Pusan National University)** (2016.03 - 2022.02)<br/>
 - **부산대학교 멋쟁이 사자처럼 9기 (PNU Like Lions 9th)** (2021.03 - 2021.12)<br/>
-- **애플 디벨로퍼 아카데미 1기 (Apple Developer Academy @POSTECH 1th)** (2022.03 - 2022.12)<br/>
+- **애플 디벨로퍼 아카데미 1기 (Apple Developer Academy @POSTECH 1st)** (2022.03 - 2022.12)<br/>
 
  <br>
 
