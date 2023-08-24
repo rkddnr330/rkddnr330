@@ -1,10 +1,10 @@
 ## Hi Welcome, i'm PARK Kangwook 👋
 
-#### 🍎 iOS Developer
+#### 🎨 Product Manager
 사회에 긍정적인 영향을 미치기 위해 노력하는 기획자입니다 🤛🏼 <br>
 사고하고, 깨어있고, 행동하고, 운동하고, 개발합니다 🔥
 
-An Product Manager
+An Product Manager <br>
 who strives to make a positive impact on society 🤛🏼 <br>
 who think, stay awake, act, exercise, and develop 🔥 
 
