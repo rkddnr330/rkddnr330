@@ -31,9 +31,9 @@ who think, stay awake, act, exercise, and develop 🔥
 
 #### 📮 Social
 
-<a href="https://newwave.tistory.com"> <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> </a> 
+<a href=""> <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> </a> 
 <a href="mailto:rkddnr330@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> 
-<a href="https://www.linkedin.com/in/kangwook-park-ios-dev/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/> </a>
+<a href=""> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/> </a>
 
  <br>
  
